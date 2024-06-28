@@ -1,0 +1,14 @@
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\bin\Debug\net8.0\Desafios DotNet.exe
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\bin\Debug\net8.0\Desafios DotNet.deps.json
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\bin\Debug\net8.0\Desafios DotNet.runtimeconfig.json
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\bin\Debug\net8.0\Desafios DotNet.dll
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\bin\Debug\net8.0\Desafios DotNet.pdb
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.AssemblyInfoInputs.cache
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.AssemblyInfo.cs
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.dll
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\refint\Desafios DotNet.dll
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.pdb
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\Desafios DotNet.genruntimeconfig.cache
+C:\Users\Gui\Desktop\Codes\Csharp\Exercicios\Desafio DotNet\Desafios DotNet\Desafios DotNet\obj\Debug\net8.0\ref\Desafios DotNet.dll
